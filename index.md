@@ -4,11 +4,11 @@
 
 Synergy of ancient wisdom with modern technology.
 
-_sa vidya ya vimuktaye_ with _mukt_ software
+**सा विद्या या विमुक्तये** with _mukt_ software
 
 ## Practical Computer Science
 
-== Full Stack Programming Environment == 
+**Full Stack Programming Environment**
 
 1. Knoppix OS
 2. Emacs 
@@ -56,7 +56,7 @@ Digital Literacy with programming is an elementary need for success and survival
 4. Propagation
 
 # Natural Farming Practices
-1. Fukouka
+1. Fukuoka
 2. Permaculture
 3. ZBNF for freedom from pesticides and hybrid seeds
 
