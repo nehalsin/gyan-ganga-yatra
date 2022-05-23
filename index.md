@@ -10,7 +10,7 @@ Synergy of ancient wisdom with modern technology.
 
 **Full Stack Programming Environment**
 
-1. Knoppix OS
+1. Knoppix OS: Complete Ecosystem 
 2. Emacs 
 3. Orgmode
 4. Android: Next Generation Penti keyboard
@@ -33,9 +33,7 @@ Synergy of ancient wisdom with modern technology.
 Digital Literacy with programming is an elementary need for success and survival in digital world.
 
 1. Mind maps
- 
-2. Digital library
-
+2. Public Domain Digital library
 
 ## Science Education
  1. Synergetic coverage of Math and  computer programming
@@ -55,7 +53,7 @@ Digital Literacy with programming is an elementary need for success and survival
 3. Seed bank for exchange 
 4. Propagation
 
-# Natural Farming Practices
+## Natural Farming Practices
 1. Fukuoka
 2. Permaculture
 3. ZBNF for freedom from pesticides and hybrid seeds
